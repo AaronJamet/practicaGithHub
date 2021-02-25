@@ -1,0 +1,10 @@
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\bin\Debug\FormularioGitHub.exe.config
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\bin\Debug\FormularioGitHub.exe
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\bin\Debug\FormularioGitHub.pdb
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.csprojAssemblyReference.cache
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.Form1.resources
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.Properties.Resources.resources
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.csproj.GenerateResource.cache
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.exe
+C:\Users\Aarón Jamet\source\repos\AaronJamet\practicaGithHub\FormularioGitHub\obj\Debug\FormularioGitHub.pdb
